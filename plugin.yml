@@ -1,0 +1,3 @@
+name: MobFixer
+main: org.grothedev.mobfixer.MobFixerPlugin
+version: 0.1

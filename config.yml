@@ -1,0 +1,11 @@
+#health handicap
+hp_enable: true
+
+#monster damage nerf
+damage_enable: false
+
+#health percentage of their max health to which monsters will be handicapped
+hp: 60
+
+#percent damage that mobs will do
+damage: 90
